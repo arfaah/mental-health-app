@@ -22,6 +22,10 @@ This project is a full stack web application that helps users manage mental heal
 4. Open in browser
 
 ## 📷 Screenshots
+![screenshot 1](WhatsApp Image 2026-04-26 at 15.57.30 (1).jpeg)
+![screenshot 2](WhatsApp Image 2026-04-26 at 15.57.30.jpeg)
+![screenshot 3](WhatsApp Image 2026-04-26 at 15.57.31.jpeg)
+![screenshot 4](WhatsApp Image 2026-04-26 at 15.57.51.jpeg)
 
 
 ## 👩‍💻 Author
